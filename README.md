@@ -133,8 +133,8 @@ pkg install python git nano -y
 
 **Step 3 — Clone the bot:**
 ```bash
-git clone https://github.com/mrdevil42023/devil-x-string
-cd devil-x-string/tgbot
+git clone https://github.com/mrdevil42023/DevilXString
+cd DevilXString/tgbot
 ```
 
 **Step 4 — Install Python dependencies:**
@@ -282,7 +282,7 @@ Fill in these settings:
 
 | Setting | Value |
 |---|---|
-| **Name** | `devil-x-string-bot` (or anything you like) |
+| **Name** | `DevilXString` (or anything you like) |
 | **Region** | Choose closest to your users |
 | **Branch** | `main` |
 | **Root Directory** | `tgbot` |
@@ -524,8 +524,8 @@ python3 --version
 **Step 3 — Clone the bot:**
 ```bash
 cd /root
-git clone https://github.com/mrdevil42023/devil-x-string
-cd devil-x-string/tgbot
+git clone https://github.com/mrdevil42023/DevilXString
+cd DevilXString/tgbot
 ```
 
 **Step 4 — Install Python dependencies:**
