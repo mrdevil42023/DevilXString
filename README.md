@@ -133,7 +133,7 @@ pkg install python git nano -y
 
 **Step 3 — Clone the bot:**
 ```bash
-git clone https://github.com/yourusername/devil-x-string
+git clone https://github.com/mrdevil42023/devil-x-string
 cd devil-x-string/tgbot
 ```
 
@@ -420,7 +420,7 @@ sudo systemctl enable docker
 
 **Step 2 — Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/devil-x-string
+git clone https://github.com/mrdevil42023/devil-x-string
 cd devil-x-string/tgbot
 ```
 
@@ -524,7 +524,7 @@ python3 --version
 **Step 3 — Clone the bot:**
 ```bash
 cd /root
-git clone https://github.com/yourusername/devil-x-string
+git clone https://github.com/mrdevil42023/devil-x-string
 cd devil-x-string/tgbot
 ```
 
