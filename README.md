@@ -41,19 +41,8 @@ Generate Pyrogram & Telethon string sessions with auto-join, force-join protecti
 You need **4 things** before deploying. Get them all now:
 
 ### 1. 🤖 Bot Token
-1. Open Telegram and search for **[@BotFather](https://t.me/BotFather)**
-2. Send `/newbot`
-3. Enter a name for your bot (e.g. `Devil X String`)
-4. Enter a username ending in `bot` (e.g. `devilxstring_bot`)
-5. Copy the token it gives you — looks like: `6342971158:AAEzAvVgP-9Hak...`
 
 ### 2. 🔑 API ID & API Hash
-1. Go to **[my.telegram.org](https://my.telegram.org)**
-2. Log in with your Telegram phone number
-3. Click **"API development tools"**
-4. Fill in the form (App title: anything, Short name: anything)
-5. Click **"Create application"**
-6. Copy your **App api_id** (numbers) and **App api_hash** (letters+numbers)
 
 ### 3. 🗄️ Supabase Database
 
@@ -93,10 +82,6 @@ CREATE INDEX IF NOT EXISTS idx_sessions_user_type ON sessions(user_id, session_t
 4. You should see **"Success. No rows returned"** — the table is ready ✅
 
 ### 4. 🆔 Your Telegram User ID
-1. Open Telegram and search for **[@userinfobot](https://t.me/userinfobot)**
-2. Send `/start`
-3. It will reply with your numeric ID (e.g. `123456789`)
-4. This goes into `config.py` as `OWNER_ID`
 
 ---
 
