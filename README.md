@@ -825,6 +825,7 @@ Made with ❤️ by **[@mrdevil12](https://t.me/mrdevil12)**
 
 📢 **Channel:** [t.me/devilbots971](https://t.me/devilbots971)
 💬 **Support Group:** [t.me/devilbotsupport](https://t.me/devilbotsupport)
+🤖 **𝘋𝘌𝘝𝘐𝘓 𝘟 𝘚𝘛𝘙𝘐𝘕𝘎:** [t.me/devilxstring_bot](https://t.me/devilxstring_bot)
 
 ---
 
